@@ -1,0 +1,7 @@
+{
+  "name": "Push_Notfication",
+  "displayName": "Push_Notfication",
+  "plugins": [
+    "@notifee/react-native"
+  ]
+}
